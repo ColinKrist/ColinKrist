@@ -20,7 +20,7 @@ jobs:
           filename: metrics1.svg
           user: colinkrist
           base: header, activity, repositories, metadata
-          config_timezone: America/New_York
+          config_timezone: America/Chicago
           config_twemoji: yes
           repositories_skipped: ""
           use_prebuilt_image: yes

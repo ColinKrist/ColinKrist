@@ -1,2 +1,6 @@
-| [![Colin's stats](https://github-readme-stats.vercel.app/api?username=colinkrist&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinkrist&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats) |
-| - | - |
+# 📸 Caught ya snoopin
+
+<div>
+  <img src="https://github.com/ColinKrist/ColinKrist/blob/main/metrics1.svg" width="48%" />
+  <img src="https://github.com/ColinKrist/ColinKrist/blob/main/metrics2.svg" width="48%" />
+</div>
